@@ -3,8 +3,8 @@
 Native named-entity recognition corpus for **Moroccan Darija written in Latin script** (romanised / *Arabizi*,
 with chat-digits `3`/`7`/`9`). CoNLL-4 tagset (PER / LOC / ORG / MISC). Released stand-off under **CC BY-NC 4.0**.
 
-Part of the **Aljamiado** project (Moroccan Latin-script NLP). Paired encoder: **MoRoBERTa** (`../moroberta-encoder/`).
-GitHub: `achrafsoltani/morisco-ner` (private) · HF dataset: `AchrafSoltani/morisco-ner` (released **on paper acceptance only**).
+Part of the **Aljamiado** project (Moroccan Latin-script NLP). Paired encoder: **MoRoBERTa** (`huggingface.co/AchrafSoltani/MoRoBERTa`).
+GitHub: `achrafsoltani/morisco-ner` · HF dataset: `AchrafSoltani/morisco-ner` · HF encoder: `AchrafSoltani/MoRoBERTa` — all openly released.
 
 ## Why this is its own repo
 MoriscoNER is a shared, separately-released resource consumed by **two** papers — the submitted Aljamiado NER paper
