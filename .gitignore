@@ -1,0 +1,23 @@
+# --- private local context (canonical copies live in ~/Dropbox/Projects/Dr.H/research/morisco-ner/) ---
+CLAUDE.local.md
+TRACKER.local.md
+
+# --- python ---
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.idea/
+
+# --- secrets ---
+.env
+
+# --- raw scraped text: NEVER redistribute (YouTube ToS / GDPR). Backed up outside git. ---
+sources/*/raw/
+*.mlm.jsonl
+
+# --- generated release artefacts (rebuilt by pipeline/release_standoff.py on acceptance) ---
+release/
+.yt_key
+logs/
+candidates/
