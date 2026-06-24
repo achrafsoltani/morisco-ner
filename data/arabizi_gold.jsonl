@@ -1,0 +1,400 @@
+{"tokens": ["lblassa", "lifiha", "db", "mafihach", "inwi"], "spans": [[4, 4, "ORG"]]}
+{"tokens": ["l3otma", "jaya", "nsafro", "ljdida"], "spans": [[3, 3, "LOC"]]}
+{"tokens": ["3andk", "lmdrassa", "nhar", "tlat?"], "spans": []}
+{"tokens": ["walakin", "3lach", "kaytsad", "nif,", "3andak", "7asasia", "mn", "chi", "7aja:", "ward,", "chjer...?"], "spans": []}
+{"tokens": ["wach", "9darti", "tamchi", "l", "argentine", "o", "tchof", "l", "atar?"], "spans": [[4, 4, "LOC"]]}
+{"tokens": ["twldat", "nhar", "l3id", "o", "taf9na", "nsamiwha", "Fetna", "kif", "f", "yawmia"], "spans": [[6, 6, "PER"]]}
+{"tokens": ["wach", "kat3raf", "chi", "maT3am", "indonisi?"], "spans": [[4, 4, "MISC"]]}
+{"tokens": ["ma", "ghadich", "nmchi", "7tel", "tlat"], "spans": []}
+{"tokens": ["ghadir", "l3rousa", "l3amariya?"], "spans": []}
+{"tokens": ["ana", "kan7tarm", "bzaf", "ra2y", "Satre"], "spans": [[4, 4, "PER"]]}
+{"tokens": ["kayn", "chi", "wahd", "8na", "kayhder", "bl", "anglais?"], "spans": [[6, 6, "MISC"]]}
+{"tokens": ["kn9raw", "kol", "nhar", "lyouma", "sebt", "o", "9arin"], "spans": []}
+{"tokens": ["mafiha", "ta", "3ib", "had", "sora", "rah", "mn", "lfirma", "dyalo"], "spans": []}
+{"tokens": ["ewa", "lah", "ya5od", "fik", "l7e9", "had", "nhar", "nta", "wyaha"], "spans": []}
+{"tokens": ["ghadi", "nghaTiw", "ga3", "lmawad", "tal", "nhar", "tlat", "jay,", "dakchi", "3lach", "bda", "l9araya", "bakri"], "spans": []}
+{"tokens": ["Lalla", "Imane,", "kifach", "dowwez", "had", "lwa9t", "kamlo?"], "spans": [[1, 1, "PER"]]}
+{"tokens": ["yamkn", "lik", "t7awl", "t9na3", "chirir", "lkbir", "bhad", "Anya", "bghat", "flos8a", "safi,", "o", "nta", "chakhS", "lwa7id", "likaybghiha", "bssa7"], "spans": []}
+{"tokens": ["kaykon", "lmostachar", "dyal", "madrasa", "kol", "tlat"], "spans": []}
+{"tokens": ["hadchi", "dmmar", "i9tiSad", "l", "almany,", "o", "sa8m", "bchkal", "ghayr", "mobachir", "f", "l7arb", "l3alamiya", "taniya"], "spans": [[4, 4, "MISC"], [11, 13, "MISC"]]}
+{"tokens": ["wach", "hada", "Tobis", "lli", "tayddi", "l", "Koutoubia?"], "spans": [[6, 6, "LOC"]]}
+{"tokens": ["nssayh", "otfakri", "bli", "alalh", "makaydir", "ghir", "lifiha", "lkhiir"], "spans": []}
+{"tokens": ["Ma3ndich", "bzaf", "dyal", "SS7abat", "mn", "ghir", "Mona..."], "spans": [[6, 6, "PER"]]}
+{"tokens": ["Moha", "o", "Fatima", "3ndhom", "joj", "bnat", "o", "drri"], "spans": [[0, 0, "PER"], [2, 2, "PER"]]}
+{"tokens": ["walakin", "ymken", "bant", "lia", "chi", "Tirmos", "f", "llour", "dial", "ssella."], "spans": []}
+{"tokens": ["jabt", "lik", "m3ya", "swart", "dyal", "tolnobil"], "spans": []}
+{"tokens": ["lkhmis", "sbou3", "inx2lah"], "spans": []}
+{"tokens": ["kanaDa", "kayna", "f", "2amrika", "chchamaliya"], "spans": [[0, 0, "LOC"], [3, 4, "LOC"]]}
+{"tokens": ["man3ich", "7da", "mokhtalif", "m8woos", "makayfker", "ila", "f", "al3ab", "lvidio", "olmanga"], "spans": []}
+{"tokens": ["wach", "3emmrek", "Safrti", "l", "2oroppa"], "spans": [[4, 4, "LOC"]]}
+{"tokens": ["dakchi", "3lach", "3afak", "matsifthomch", "fwa9t", "m3atal", "nhar", "larba3"], "spans": []}
+{"tokens": ["ghat", "mchi", "l", "lasall", "nhar", "larb3?"], "spans": []}
+{"tokens": ["kif", "kat3raf,", "hir", "8", "safi", "nhar", "tlat"], "spans": []}
+{"tokens": ["aykhsna", "nmchiw", "ljanob", "l", "Fire", "Nation"], "spans": []}
+{"tokens": ["walakin", "3ndk", "zzher", "gddit", "nSawb", "ttamarin", "dyali", "lkhmis", "lli", "fat"], "spans": []}
+{"tokens": ["3emrek", "jerebti", "tfeddel", "sa7btek", "3la", "lwalida", "dialek"], "spans": []}
+{"tokens": ["kant", "wa7d", "lbnia", "sghira", "smitha", "Anya", "makennach", "kantkheliwha", "bou7dha"], "spans": [[5, 5, "PER"]]}
+{"tokens": ["tsabt", "blmarad", "lfaranci", "likayban", "mli", "kayb9aw", "rajlik", "itmalmlo."], "spans": [[2, 2, "MISC"]]}
+{"tokens": ["wach", "3rfti", "kifach", "noSlo", "l", "hotel", "Mansour?"], "spans": [[5, 6, "ORG"]]}
+{"tokens": ["wach", "ana", "tanhder", "m3a", "ssi", "Khalid?"], "spans": [[5, 5, "PER"]]}
+{"tokens": ["bighitini", "nkon", "James?"], "spans": [[2, 2, "PER"]]}
+{"tokens": ["blmonasaba,", "kantmnna", "tkon", "ma3rdtich", "3la", "Ihsan."], "spans": [[5, 5, "PER"]]}
+{"tokens": ["wach", "ghadi", "na7taj", "chahada", "jami3iya", "bach", "nl9a", "wadifa", "tghyir", "lbi2a?"], "spans": []}
+{"tokens": ["mora", "chi", "tlata", "dial", "simanat", "rje3t", "lfranssa", "3la", "9bel", "l5edma"], "spans": [[6, 6, "LOC"]]}
+{"tokens": ["rah", "msta9lla", "lblad", "3la", "franssa"], "spans": [[4, 4, "LOC"]]}
+{"tokens": ["ghat", "mchi", "l", "lasall", "nhar", "lkhmis?"], "spans": []}
+{"tokens": ["mazal", "n9dr", "nkhraj", "tilifoni", "onkhdm", "b", "Google"], "spans": [[6, 6, "ORG"]]}
+{"tokens": ["nafs", "lmojrimin", "f", "lbayt", "l", "2abyaD"], "spans": []}
+{"tokens": ["lmgharba", "kolxi", "f", "9atar"], "spans": [[0, 0, "MISC"], [3, 3, "LOC"]]}
+{"tokens": ["Oh,", "yarbbi,", "3ndhom", "ghir", "Jack", "Daniels."], "spans": [[4, 5, "ORG"]]}
+{"tokens": ["aji", "tchofi", "howa", "li", "mchina", "lih", "w", "sawlna"], "spans": []}
+{"tokens": ["la", "akhti", "ma", "blanch", "hada", "maymknch"], "spans": []}
+{"tokens": ["la,", "hadak", "tilifon", "dyal", "Naima"], "spans": [[4, 4, "PER"]]}
+{"tokens": ["nta", "wahd", "ma", "m3ak", "hadra"], "spans": []}
+{"tokens": ["Tajine", "dial", "bTaTa", "o", "zzitoun."], "spans": []}
+{"tokens": ["dwazt", "chwiya", "dyal", "lwa9t", "f", "fransa", "o", "almanya", "o", "amrica", "ljanobiya"], "spans": [[5, 5, "LOC"], [7, 7, "LOC"], [9, 10, "LOC"]]}
+{"tokens": ["had", "lktab", "dyal", "Loubna."], "spans": [[3, 3, "PER"]]}
+{"tokens": ["a", "fink?", "charki", "m3a", "nas", "dakchi", "li", "katwejdi"], "spans": []}
+{"tokens": ["tamrid", "outa3lim", "makhdaminch", "fihom"], "spans": []}
+{"tokens": ["aktarya", "f", "amrica", "ljanobia", "fin", "kaynin", "7ayawnat", "fchkel", "f", "ghabat", "amazon"], "spans": [[2, 3, "LOC"], [9, 10, "LOC"]]}
+{"tokens": ["khdithom", "mli", "kant", "kantfaraj", "f", "Masterchef", "f", "tlfaza."], "spans": [[5, 5, "ORG"]]}
+{"tokens": ["wach", "kat9ra", "l", "anglais?"], "spans": [[3, 3, "MISC"]]}
+{"tokens": ["ma", "ghadich", "nmchi", "7tel", "sebt"], "spans": []}
+{"tokens": ["3adi", "hit", "na3essa", "bnhar"], "spans": []}
+{"tokens": ["khaliha", "f", "yed", "lah", "o", "li", "mektaba", "like", "hiya", "hadike"], "spans": []}
+{"tokens": ["3andk", "lmdrassa", "nhar", "tnin?"], "spans": []}
+{"tokens": ["amrica", "ljanobiya", "kant", "fchkal,", "mkhtalfa", "3la", "lblad"], "spans": [[0, 1, "LOC"]]}
+{"tokens": ["wach", "msali", "ssebt", "jjay?"], "spans": []}
+{"tokens": ["anmchi", "l", "cinema", "lkhmiss", "jay,", "tji", "m3aya", "?"], "spans": []}
+{"tokens": ["wach", "rajlek", "tahoa", "mn", "Khounifra?"], "spans": [[4, 4, "LOC"]]}
+{"tokens": ["yalla8", "rje3t", "mn", "2almanya"], "spans": [[3, 3, "LOC"]]}
+{"tokens": ["kirak", "ghadi", "flmorja3a", "dyal", "imti7an", "riyadiyat?"], "spans": []}
+{"tokens": ["n9dr", "nghani", "oghniya", "mod7ika", "3la", "jotat", "maytin,", "ddoud", "kaydkhl", "o", "kaykhrj"], "spans": []}
+{"tokens": ["maghaydirouch", "l3mariya"], "spans": []}
+{"tokens": ["awili", "3la", "lbarba", "flhrira"], "spans": []}
+{"tokens": ["galt", "liya", "sahbti", "jlabatak", "mzayra"], "spans": []}
+{"tokens": ["l3rousa", "taht", "mn", "l3mariya"], "spans": []}
+{"tokens": ["ah,", "ghadi", "ntkhtabro", "f", "kolchi", "f", "lfaSl", "tani"], "spans": []}
+{"tokens": ["Lah", "ikhlf", "3lik", "assi", "Bojm3a"], "spans": [[4, 4, "PER"]]}
+{"tokens": ["ma", "ghadich", "nmchi", "7tel", "larba3"], "spans": []}
+{"tokens": ["wach", "n9adro", "n3awdo", "n7addo", "maw3id", "nhar", "l7ad?"], "spans": []}
+{"tokens": ["had", "ddar", "dyal", "Malika"], "spans": [[3, 3, "PER"]]}
+{"tokens": ["sma7", "liya", "bghit", "ngol", "safir"], "spans": [[4, 4, "LOC"]]}
+{"tokens": ["Knt", "kanDn", "ghadi", "n3red", "3la", "Assia,", "kat3rfha."], "spans": [[5, 5, "PER"]]}
+{"tokens": ["zwinin", "akhti", "ch7al", "bach", "t9amo", "3lik", "?"], "spans": []}
+{"tokens": ["kaynin", "chi", "Tyor", "wa3ra", "flbrazil"], "spans": [[4, 4, "LOC"]]}
+{"tokens": ["ghadin", "b9a", "hna", "7tel", "larba3"], "spans": []}
+{"tokens": ["idan", "hoa", "ghaybghi", "inta9l", "ltma"], "spans": []}
+{"tokens": ["meli", "mazal", "fazg,", "staghl", "lforSa", "o", "kherrej", "lkelb,", "ana", "ansekhkhen", "lik", "l7emmam", "o", "ncomandi", "lmakla", "dial", "lhnoud."], "spans": [[16, 16, "MISC"]]}
+{"tokens": ["hadchi", "mam3rofch", "bzaf", "f", "oropa"], "spans": [[4, 4, "LOC"]]}
+{"tokens": ["ghadi", "ykon", "3andna", "mti7an,", "ila", "kan", "hadchi", "likat9sad,", "simana", "jaya", "nhar", "lkhmis"], "spans": []}
+{"tokens": ["fach", "kendira", "ana", "kyji", "darbha", "zelzal"], "spans": []}
+{"tokens": ["kayt3llem", "longli", "bbou7dou"], "spans": [[1, 1, "MISC"]]}
+{"tokens": ["tsnay", "ta", "nhar", "tlat", "ghadi", "ikon", "iftitah"], "spans": []}
+{"tokens": ["imta", "ghadi", "sa3oudiya", "stenzef", "ga3", "lpetrole", "li", "3endha"], "spans": [[2, 2, "LOC"]]}
+{"tokens": ["Driss", "o", "Fatima", "mabghawch", "lmonaDa"], "spans": [[0, 0, "PER"], [2, 2, "PER"]]}
+{"tokens": ["man9derch", "ydouz", "liya", "chi", "jem3a", "bla", "ksakso"], "spans": []}
+{"tokens": ["makayna", "la", "mosi9a", "faranciya"], "spans": [[3, 3, "MISC"]]}
+{"tokens": ["3adi", "hna", "kamlin", "khadmin", "fach", "makn"], "spans": []}
+{"tokens": ["wach", "darija", "logha", "wla", "lahja"], "spans": [[1, 1, "MISC"]]}
+{"tokens": ["makay3aytoch", "lik", "Einstein", "3la", "dakchi"], "spans": [[2, 2, "PER"]]}
+{"tokens": ["ila", "makanch", "ma9arich", "machi", "mouchkil"], "spans": []}
+{"tokens": ["7na", "kankhaTo", "bach", "nta9lo", "lsa7el", "lgharbi", "dyal", "Britanya", "mn", "ba3d", "kolchi!"], "spans": [[7, 7, "LOC"]]}
+{"tokens": ["sokti", "mn", "sda3", "rah", "9hrtina"], "spans": []}
+{"tokens": ["koul", "mouslim", "kaySom", "f", "remdan"], "spans": [[1, 1, "MISC"], [4, 4, "MISC"]]}
+{"tokens": ["kay8Der", "b", "longli", "f", "lkhdma"], "spans": [[2, 2, "MISC"]]}
+{"tokens": ["yallah", "cheft", "ttarikh", "f", "Google"], "spans": [[4, 4, "ORG"]]}
+{"tokens": ["kanfkkr", "n3ich", "f", "Dakhla", "hadchi", "lib9a", "fhyati,", "kant", "tajriba", "bdlat", "lia", "7yati"], "spans": [[3, 3, "LOC"]]}
+{"tokens": ["o", "wldi", "jjilali", "mazal", "kay3awenni", "b", "jehdo", "kaml"], "spans": [[2, 2, "PER"]]}
+{"tokens": ["olla", "lmerra", "jjaya", "ghankteb", "joj", "Sf7at,", "b7al", "3omar", "lli", "jab", "15."], "spans": [[7, 7, "PER"]]}
+{"tokens": ["gallia", "nsllm", "3lik", "o", "ngolik", "bila", "ghadi", "ykon", "8na", "nhar", "tlat,", "ila", "9dr"], "spans": []}
+{"tokens": ["ok,", "rah", "wrrekt", "3lih", "o", "makanch", "SSot.", "njerrebo", "lghwat?"], "spans": []}
+{"tokens": ["8owwa", "tzad", "f", "2ifri9ya"], "spans": [[3, 3, "LOC"]]}
+{"tokens": ["stamta3", "b", "nhar", "doctor"], "spans": []}
+{"tokens": ["wa9ft", "lhafila", "bin", "fas", "omrkax"], "spans": [[3, 3, "LOC"], [4, 4, "LOC"]]}
+{"tokens": ["bghit", "nsifT", "hadchi", "l", "mirikan"], "spans": [[4, 4, "MISC"]]}
+{"tokens": ["bghit", "ndowwer", "l", "mirikan"], "spans": [[3, 3, "LOC"]]}
+{"tokens": ["smiyto", "Fetna,", "9iSa", "Twila"], "spans": []}
+{"tokens": ["ana", "ghadi", "n", "sedd", "lma7al", "m3a", "ljomo3a"], "spans": []}
+{"tokens": ["yakma", "ishab", "lik", "chi", "haja", "dial", "lhram?"], "spans": []}
+{"tokens": ["ghadin", "b9a", "hna", "7tel", "tlat", "jay"], "spans": []}
+{"tokens": ["ghandir", "3amaliyya", "n8ar", "lkhmis"], "spans": []}
+{"tokens": ["Wach", "ktbti", "bra", "l", "Hassan?"], "spans": [[4, 4, "PER"]]}
+{"tokens": ["makayn", "tta", "b7er", "t7t", "mnna,", "hir", "Pakistan"], "spans": [[6, 6, "LOC"]]}
+{"tokens": ["frmaj", "mchwi", "mSno3", "f", "Vosges."], "spans": [[4, 4, "LOC"]]}
+{"tokens": ["kayn", "dak", "lblasa", "talyaniya", "jdida"], "spans": [[3, 3, "MISC"]]}
+{"tokens": ["ch7al", "tlw9t", "bach", "toSl", "l", "Tetouan"], "spans": [[5, 5, "LOC"]]}
+{"tokens": ["aji", "ahbiba", "n3awdo", "lik", "3ndi", "3la", "7sabi"], "spans": []}
+{"tokens": ["bzzaf", "d", "l7ayawanat", "lbarriya", "kat3ich", "f", "2ifri9ya"], "spans": [[6, 6, "LOC"]]}
+{"tokens": ["idan", "blasa", "faranciya", "rkhisa"], "spans": [[2, 2, "MISC"]]}
+{"tokens": ["antl3", "nghssl", "zrabi", "f", "ste7"], "spans": []}
+{"tokens": ["sahbtk", "anblokiha", "katnez", "3lina"], "spans": []}
+{"tokens": ["maknbghich", "Breton,", "ga3", "dakchi", "kaymchi", "bchwiya", "fkhaT", "wla", "da2ira", "-", "momila", "bzaf"], "spans": []}
+{"tokens": ["imta", "ghadi", "t", "5rej", "lik", "lvisa", "dial", "sbanya"], "spans": [[7, 7, "LOC"]]}
+{"tokens": ["chno", "nawiya", "diri", "m3ahom", "f", "Paris?"], "spans": [[5, 5, "LOC"]]}
+{"tokens": ["tana", "mstressi,", "frask", "wa7d", "tiyara", "ta7t", "lbar7", "f", "Texas?"], "spans": [[8, 8, "LOC"]]}
+{"tokens": ["9adi", "safha", "f", "instagram", "hssan"], "spans": [[3, 3, "ORG"]]}
+{"tokens": ["tkhayal", "ttold", "fyawm", "l9idis", "Ignatius", "wla", "3id", "SSo3od"], "spans": [[4, 4, "PER"], [7, 7, "MISC"]]}
+{"tokens": ["hoa", "Taba9", "nglizi", "bimtyaz!"], "spans": [[2, 2, "MISC"]]}
+{"tokens": ["kant", "kanfakar", "ndirha", "nhar", "sabt", "jay"], "spans": []}
+{"tokens": ["kayna", "7timalia", "Sghira", "bzaf", "dyal", "ana8o", "tkon", "7aDara", "fl", "mrrikh"], "spans": [[9, 9, "LOC"]]}
+{"tokens": ["mli", "kaygol", "l", "Chouaib", "bli", "rah", "rah", "bgha", "ibddel", "ljow"], "spans": [[3, 3, "PER"]]}
+{"tokens": ["lla,", "nta", "nawi", "tr7el", "l", "Merrakch."], "spans": [[5, 5, "LOC"]]}
+{"tokens": ["walakin", "Jmiaa", "kant", "bant", "ghzala"], "spans": [[1, 1, "PER"]]}
+{"tokens": ["fi3lan,", "ghatkon", "a7ssan", "James", "ga3!"], "spans": [[3, 3, "PER"]]}
+{"tokens": ["3andk", "lmdrassa", "nhar", "lkhmis?"], "spans": []}
+{"tokens": ["Ahlan", "Lhossein,", "kidayr", "lyoum?"], "spans": [[1, 1, "PER"]]}
+{"tokens": ["ma", "ghadich", "nmchi", "7tel", "larba3", "jay"], "spans": []}
+{"tokens": ["wach", "hada", "ssi", "Mohamed?"], "spans": [[3, 3, "PER"]]}
+{"tokens": ["bch7al", "ghTTl3", "3lik", "lmchia", "l", "mirikan"], "spans": [[5, 5, "LOC"]]}
+{"tokens": ["Ali", "kifach", "rak", "katwllef", "fcharika?"], "spans": [[0, 0, "PER"]]}
+{"tokens": ["walakin", "daba", "hadik", "Anya", "katban", "lia", "hia", "lli", "wellat", "batched", "had", "lblaSSSa"], "spans": [[3, 3, "PER"]]}
+{"tokens": ["oskhan", "3lina", "rssna", "obghina", "nrtaho"], "spans": []}
+{"tokens": ["3jbni", "nt9rab", "mn", "lah", "ktar"], "spans": []}
+{"tokens": ["ghat", "mchi", "l", "lasall", "nhar", "tlat?"], "spans": []}
+{"tokens": ["ch7al", "hada", "bach", "nta", "f", "9Sbat", "tadla?"], "spans": [[5, 6, "LOC"]]}
+{"tokens": ["walakin", "rah", "ma9ribach", "o", "ma3raftch", "wach", "kat7ll", "n8ar", "l7ad"], "spans": []}
+{"tokens": ["khaSni", "n9lbo", "3la", "had", "Anya,", "o", "nwerrih", "annaha", "baghia", "ghi", "flousso"], "spans": [[4, 4, "PER"]]}
+{"tokens": ["o", "daba", "3achna", "fsalam", "lmoda", "dyal", "70", "3am", "f", "oropa"], "spans": [[9, 9, "LOC"]]}
+{"tokens": ["rah", "mcha", "ljamaa", "ysali"], "spans": []}
+{"tokens": ["ah,", "kayn", "bzaf", "matchof", "f", "amrica", "ljanobiya"], "spans": [[5, 6, "LOC"]]}
+{"tokens": ["finahia", "Loubna", "3afak?"], "spans": [[1, 1, "PER"]]}
+{"tokens": ["imta", "aydowzo", "o", "wach", "ba9i", "tssjal?"], "spans": []}
+{"tokens": ["dewez", "TTofoula", "dyalo", "f", "2ifri9ya"], "spans": [[4, 4, "LOC"]]}
+{"tokens": ["tay", "dir", "t3am", "min", "ja3a", "ljm3a"], "spans": []}
+{"tokens": ["3la", "kol7al,ana", "far7an", "nta", "lli", "wa7alt", "m3ah", "flmas3ad,", "omachi", "Souad."], "spans": [[9, 9, "PER"]]}
+{"tokens": ["momkin", "nhder", "m3a", "lla", "Fatiha", "laykhllik?"], "spans": [[4, 4, "PER"]]}
+{"tokens": ["t2ttrt", "bzaf", "bchaT7a", "dyal", "Gnawa,", "o", "wlit", "wa3r", "fiha."], "spans": [[4, 4, "MISC"]]}
+{"tokens": ["3ndi", "mokalama", "m3a", "lbiro", "f", "Rbat", "f", "9ell", "mn", "15", "d9i9a."], "spans": [[5, 5, "LOC"]]}
+{"tokens": ["mtkhfich", "ghir", "man", "lah"], "spans": []}
+{"tokens": ["chrit", "ghcha", "jdid", "l", "telephone"], "spans": []}
+{"tokens": ["sSalib", "ramz", "dyal", "lmasi7iyya"], "spans": [[3, 3, "MISC"]]}
+{"tokens": ["wach", "had", "ddar", "dyal", "Malika?"], "spans": [[4, 4, "PER"]]}
+{"tokens": ["wa", "hoa", "rah", "S3ib", "thder", "m3a", "lwalida", "7it", "3ndha", "96", "3am", "o", "t9riban", "Smka"], "spans": []}
+{"tokens": ["ahlan", "lla", "Jmiaa,", "ach", "kat3awdi?"], "spans": [[2, 2, "PER"]]}
+{"tokens": ["chno", "mchokil", "li", "kyan", "ftonobil"], "spans": []}
+{"tokens": ["3jbatni", "fikrat", "James", "Bond."], "spans": [[2, 3, "PER"]]}
+{"tokens": ["n9adro", "njibo", "sif,", "b7al", "faris", "7a9i9i", "ltaj"], "spans": []}
+{"tokens": ["lghalat", "fik", "min", "ma3jbokch", "tmak", "t9olihalhom"], "spans": []}
+{"tokens": ["n9dro", "n9ado", "TAM", "TAM,", "walakin", "aykhsna", "jald", "dyal", "ljamos!"], "spans": [[2, 3, "ORG"]]}
+{"tokens": ["b9a", "kif", "mnta", "ot9rab", "mn", "lah"], "spans": []}
+{"tokens": ["had", "l3am", "3eta", "lah", "zitoun"], "spans": []}
+{"tokens": ["ma", "ghadich", "nmchi", "7tel", "tlat", "jay"], "spans": []}
+{"tokens": ["chokran", "3la", "lmosa3ada", "dyalk,", "doctour"], "spans": []}
+{"tokens": ["ana", "bghit", "weldi", "ghir", "yedi", "lwra9", "dial", "sbenya"], "spans": [[7, 7, "LOC"]]}
+{"tokens": ["ana", "bghit", "weldi", "ghir", "yedi", "lwra9", "dial", "almanya"], "spans": [[7, 7, "LOC"]]}
+{"tokens": ["t3TTelti", "lyom", "tani.", "chno", "l3odr", "dyalk", "lyom?"], "spans": []}
+{"tokens": ["kant", "khrajtha", "tbiba", "lmama", "3la", "9bl", "whd", "lhba", "nadt", "liha", "fnifha", "ou", "hydtha", "liha"], "spans": []}
+{"tokens": ["3emrek", "jerebti", "dir", "l7ijama"], "spans": []}
+{"tokens": ["ghadin", "b9a", "hna", "7tel", "tnin", "jay"], "spans": []}
+{"tokens": ["man9derch", "ntkheyyel", "ostada", "Chourou9", "katl3eb", "lkora"], "spans": [[3, 3, "PER"]]}
+{"tokens": ["khssek", "tb33ed", "3lik", "Facebook", "o", "ga3", "mawa9i3", "tawaSol", "ljtima3i", "lkhrin"], "spans": [[3, 3, "ORG"]]}
+{"tokens": ["t3etlti", "bezzaf", "bach", "t9dda", "lkhodra", "d", "jm3a"], "spans": []}
+{"tokens": ["o", "waldi", "Jilali", "mazal", "kay3awn", "ch7alma", "9dar"], "spans": [[2, 2, "PER"]]}
+{"tokens": ["kansafer", "koula", "telt", "chher", "bach", "njib", "sel3a", "mn", "berra", "r5issa"], "spans": []}
+{"tokens": ["wach", "makatbghich", "ssi", "Jameson?"], "spans": [[3, 3, "ORG"]]}
+{"tokens": ["wakha,", "wa7ad", "98wa,", "joj", "mn", "vodka", "o", "martini", "jayin"], "spans": []}
+{"tokens": ["nwaslhom", "onji", "safi", "chba3t", "lhmdolilah"], "spans": []}
+{"tokens": ["o", "yallah", "lesse9t", "ydi", "f", "tbla", "fl7issa", "dial", "tafatto7", "lfanni"], "spans": []}
+{"tokens": ["wach", "katmchi", "l", "Ourika", "bzzaf?"], "spans": [[3, 3, "LOC"]]}
+{"tokens": ["ana", "kantsana", "nsma3", "lkhabar", "dyal", "ri7la", "dyalo", "l", "fransa"], "spans": [[8, 8, "LOC"]]}
+{"tokens": ["3ndi", "mochkil", "m3a", "lfronsi", "tahia!"], "spans": [[3, 3, "MISC"]]}
+{"tokens": ["wach", "khda", "lwa9t", "flkhar", "bach", "itsajal", "f", "la", "salle?"], "spans": []}
+{"tokens": ["nas", "ktmot", "fi", "filistin"], "spans": [[3, 3, "LOC"]]}
+{"tokens": ["f", "jami3", "l7alat", "ljow", "f", "merrakch", "zine."], "spans": [[5, 5, "LOC"]]}
+{"tokens": ["wach", "had", "Tri9", "ghadya", "l", "Dakhla"], "spans": [[5, 5, "LOC"]]}
+{"tokens": ["kent", "f", "2oroppa", "kamla"], "spans": [[2, 2, "LOC"]]}
+{"tokens": ["kantmana", "tkon", "mchiti", "l", "Machu", "Picchu"], "spans": [[4, 5, "LOC"]]}
+{"tokens": ["had", "jjellaba", "jatk", "mDey9a"], "spans": []}
+{"tokens": ["jlaba", "maghadich", "nlbasha", "l3ars"], "spans": []}
+{"tokens": ["wach", "3ndk", "dar", "flmghrib?"], "spans": [[3, 3, "LOC"]]}
+{"tokens": ["ghi", "bghitk", "tji", "3andi", "nhar", "sbt"], "spans": []}
+{"tokens": ["ah", "chefthoum.", "ghaykonou", "kabous."], "spans": []}
+{"tokens": ["mchit", "l", "2oroppa", "jouj", "merrat"], "spans": [[2, 2, "LOC"]]}
+{"tokens": ["iwa", "chti", "ha", "rabi", "khlsak"], "spans": []}
+{"tokens": ["la", "makay3aytoch", "3lik", "Einstein", "ga3."], "spans": [[3, 3, "PER"]]}
+{"tokens": ["dyawl", "Agatha", "Christie", "matalan"], "spans": [[1, 2, "PER"]]}
+{"tokens": ["kanDn", "a7san", "film", "3ndi", "kan", "Forrest", "Gump."], "spans": [[5, 6, "MISC"]]}
+{"tokens": ["bghit", "nmchi", "l", "arjontin", "onchof", "condors"], "spans": [[3, 3, "LOC"], [5, 5, "MISC"]]}
+{"tokens": ["dorof", "3a2iliya,", "waldi", "kay3ich", "f", "Paris"], "spans": [[5, 5, "LOC"]]}
+{"tokens": ["kay3jbok", "snigaliyin", "ola", "la"], "spans": [[1, 1, "MISC"]]}
+{"tokens": ["7it", "ghadi", "itmmaw", "Lent", "wla", "chi", "7aja", "b7al", "hakka"], "spans": [[3, 3, "MISC"]]}
+{"tokens": ["anjrrbo", "lkharita", "dyal", "Google?"], "spans": [[3, 3, "ORG"]]}
+{"tokens": ["ymken", "n3iyet", "3la", "Amina", "bach", "tjib", "lkorsi"], "spans": [[3, 3, "PER"]]}
+{"tokens": ["ahlan,", "Carolin,", "makat7asich", "blmalal", "8na", "chwiya"], "spans": [[1, 1, "PER"]]}
+{"tokens": ["ga3", "dakchi", "lfaranci,", "kaytla7d", "dima."], "spans": [[2, 2, "MISC"]]}
+{"tokens": ["imkn", "kaytsama", "tagine", "walakin", "mamt2akadch"], "spans": []}
+{"tokens": ["ghadin", "b9a", "hna", "7tel", "l7ad", "jay"], "spans": []}
+{"tokens": ["mzaal", "ghan3icho", "bzaf", "fhad", "dar", "inx2alah"], "spans": []}
+{"tokens": ["khoSoSan", "Amina,", "hia", "li", "3ziza", "3lia."], "spans": [[1, 1, "PER"]]}
+{"tokens": ["ghadin", "b9a", "hna", "7tel", "tnin"], "spans": []}
+{"tokens": ["walakin", "3ziz", "3lik", "chi", "kwiysat", "dial", "l", "vin", "dial", "fransa", "tchrbhom."], "spans": [[9, 9, "LOC"]]}
+{"tokens": ["3andk", "lmdrassa", "nhar", "jem3a?"], "spans": []}
+{"tokens": ["Sba7", "nnour", "ssi", "Hamid,", "ach", "kat3awd", "had", "SSba7?"], "spans": [[3, 3, "PER"]]}
+{"tokens": ["ma", "ghadich", "nmchi", "7tel", "jem3a", "jaya"], "spans": []}
+{"tokens": ["kola", "wahd", "ichof", "bino", "u", "bin", "rebi"], "spans": []}
+{"tokens": ["Sefro", "mkhtalfa", "bzzaf", "3la", "Rbat"], "spans": [[0, 0, "LOC"], [4, 4, "LOC"]]}
+{"tokens": ["makyanch", "rizo", "bzaf", "dyal", "inwi"], "spans": [[4, 4, "ORG"]]}
+{"tokens": ["hadi", "machi", "fikra", "masi7ia", "bzzaf!"], "spans": [[3, 3, "MISC"]]}
+{"tokens": ["libgha", "chihaja", "kaywsal", "liha"], "spans": []}
+{"tokens": ["Oh,", "yalah", "safi", "...", "nta", "3araf", "bli", "hadchi", "machi", "s7i7."], "spans": []}
+{"tokens": ["walakin", "ghadi", "nwajad", "i9tira7", "dyalk,", "nal9a", "sabab", "wajih", "lmonDim"], "spans": []}
+{"tokens": ["ghadi", "nDDem", "blan", "kbir", "f", "London", "simana", "jaya"], "spans": [[5, 5, "LOC"]]}
+{"tokens": ["ana", "ankon", "Octopussy."], "spans": [[2, 2, "MISC"]]}
+{"tokens": ["ana", "mou3jab", "kbir", "b", "lki", "pop"], "spans": [[4, 5, "MISC"]]}
+{"tokens": ["ghadi", "nswwl", "Marcel,", "Jeannine", "o", "Leon", "ila", "baghaw", "ijiw"], "spans": [[2, 2, "PER"], [3, 3, "PER"], [5, 5, "PER"]]}
+{"tokens": ["idan", "3afak", "matsifthomch", "m3TTel", "nhar", "larb3", "bl3chia"], "spans": []}
+{"tokens": ["Lay3awn", "assi", "Abderrahim"], "spans": [[2, 2, "PER"]]}
+{"tokens": ["ana", "kan9arri", "l3arbiyya"], "spans": [[2, 2, "MISC"]]}
+{"tokens": ["tkon", "ji3an", "chwiya", "machi", "b7al", "jo3", "tal", "lmot", "f", "sourya"], "spans": [[9, 9, "LOC"]]}
+{"tokens": ["kifach", "l9a", "Alan", "Turing", "jjarda?"], "spans": [[2, 3, "PER"]]}
+{"tokens": ["mxit", "ltbiba", "nhr", "tlat"], "spans": []}
+{"tokens": ["ma3ndnach", "8adchi", "f", "2oroppa"], "spans": [[3, 3, "LOC"]]}
+{"tokens": ["jari", "kamal", "kayakkol", "ghir", "Sobba,", "hadi", "kayna."], "spans": [[1, 1, "PER"]]}
+{"tokens": ["ana", "bghit", "weldi", "ghir", "yedi", "lwra9", "dial", "franssa"], "spans": [[7, 7, "LOC"]]}
+{"tokens": ["wakha", "mli", "kan", "fdik", "ljazira", "f", "Castaway", "aykon", "darori", "kla", "l7em!"], "spans": [[6, 6, "MISC"]]}
+{"tokens": ["ghadi", "ighaniw", "chalha"], "spans": [[2, 2, "MISC"]]}
+{"tokens": ["chhal", "mn", "frmsyan", "3ndkom", "flblad"], "spans": []}
+{"tokens": ["mcha", "l", "ssinima", "larbe3", "lli", "fat"], "spans": []}
+{"tokens": ["a7ssen", "7aja", "tsafer", "tal", "chher", "ts3oud", "katkoun", "denya", "5awya"], "spans": []}
+{"tokens": ["makaynch", "téléphone", "man", "instagram"], "spans": [[3, 3, "ORG"]]}
+{"tokens": ["ghadin", "b9a", "hna", "7tel", "tlat"], "spans": []}
+{"tokens": ["kan", "3ndi", "Rottweiler,", "walakin", "tfkit", "mno,", "rah", "kla", "jari."], "spans": [[2, 2, "MISC"]]}
+{"tokens": ["rah", "wa7d", "lmra", "rba7t", "sayid", "lkawn"], "spans": []}
+{"tokens": ["sat9bltini", "flfaysbok"], "spans": [[1, 1, "ORG"]]}
+{"tokens": ["lm3lam", "fin", "mcha", "mn", "gobila"], "spans": []}
+{"tokens": ["f", "jjiha", "lkhra", "mn", "chari3", "kayn", "l", "biro", "dyal", "doctour", "Nabil,", "Tbib", "t", "rrijim", "momtaz"], "spans": [[10, 10, "PER"]]}
+{"tokens": ["kayen", "maytchaf", "f", "2amrika", "l", "janoubiya"], "spans": [[3, 5, "LOC"]]}
+{"tokens": ["l", "mou7iT", "l", "8indi", "kayen", "f", "janoub", "2asya"], "spans": [[1, 3, "LOC"], [6, 7, "LOC"]]}
+{"tokens": ["aji", "n7ettou", "chi", "tsawer", "f", "insta"], "spans": [[5, 5, "ORG"]]}
+{"tokens": ["la", "niha2iyan,", "nta", "katkhaTaT", "tnta9l", "l", "Laguira"], "spans": [[6, 6, "LOC"]]}
+{"tokens": ["fin", "ghatmchi", "f", "2oroppa?"], "spans": [[3, 3, "LOC"]]}
+{"tokens": ["yallah", "rje3t", "men", "l3omra."], "spans": [[3, 3, "MISC"]]}
+{"tokens": ["lli", "mrid", "lah", "ichafih"], "spans": []}
+{"tokens": ["kindir", "bach", "noSl", "l", "ssifara", "dyal", "lmirikan"], "spans": [[6, 6, "MISC"]]}
+{"tokens": ["tsnaw", "aighia", "iighaykon", "f", "bidayat", "2024"], "spans": []}
+{"tokens": ["wach", "had", "lktab", "dyal", "Hicham?"], "spans": [[4, 4, "PER"]]}
+{"tokens": ["hchoma", "3lik", "chno", "dartlik", "likadwi", "3liha", "haka"], "spans": []}
+{"tokens": ["b9a", "ghir", "merdi", "ou", "lah", "ghadi", "ysehel", "3lik"], "spans": []}
+{"tokens": ["katfakarni", "bra7alati", "flbrazil"], "spans": [[2, 2, "LOC"]]}
+{"tokens": ["ah,", "ri7la", "l", "amrica", "ljanobia", "ghaTTle3", "ghalia"], "spans": [[3, 4, "LOC"]]}
+{"tokens": ["ma", "ghadich", "nmchi", "7tel", "tnin", "jay"], "spans": []}
+{"tokens": ["3ndna", "ghir", "Gordon", "gin", "safi"], "spans": [[2, 2, "ORG"]]}
+{"tokens": ["oh,", "yarbi,", "nta", "bssa7", "chi", "7aja"], "spans": []}
+{"tokens": ["mazal", "malgit", "tkchita", "ly", "ghatji", "m3aya"], "spans": []}
+{"tokens": ["lostad", "lakhor", "dyal", "chimi"], "spans": []}
+{"tokens": ["ma7ed", "liytima", "katbki", "ou", "rebi", "kayzidha"], "spans": []}
+{"tokens": ["nta", "makaddwich", "3la", "hadok", "li", "mn", "lithuania?"], "spans": [[6, 6, "LOC"]]}
+{"tokens": ["ahlan", "Sami,", "ach", "kat3awd", "lyom?"], "spans": [[1, 1, "PER"]]}
+{"tokens": ["Omar", "3Ta", "ktab", "l", "Mohamed"], "spans": [[0, 0, "PER"], [4, 4, "PER"]]}
+{"tokens": ["fekkertini,", "kantmenna", "matkonch", "3rDti", "3la", "Rachid."], "spans": [[5, 5, "PER"]]}
+{"tokens": ["3ndna", "ghir", "lbira", "dyal", "8na,", "o", "nabid", "kayji", "mn", "Bordeaux"], "spans": [[9, 9, "LOC"]]}
+{"tokens": ["lah", "ysahl", "3la", "ljami3"], "spans": []}
+{"tokens": ["jablia", "lah", "bhal", "la", "krmato", "maerftch", "mejbnich", "tyab", "do", "f", "msaman"], "spans": []}
+{"tokens": ["lmochkila", "i9dro", "ykono", "bzaf", "dyal", "James."], "spans": [[5, 5, "PER"]]}
+{"tokens": ["khasni", "nmchi", "njma3", "dik", "dar", "rah", "moskha"], "spans": []}
+{"tokens": ["mskina", "4adi", "tmxi", "nhar", "larb3a"], "spans": []}
+{"tokens": ["o", "blastha", "bnaw", "oropa"], "spans": [[3, 3, "LOC"]]}
+{"tokens": ["galt", "ma3lich", "nmchi", "nchofha"], "spans": []}
+{"tokens": ["khask", "ta9ra", "ktab:", "lmo8ajirin"], "spans": [[3, 3, "MISC"]]}
+{"tokens": ["tkoun", "scolaritГ©", "khedama", "sebt", "f", "sbah", "?"], "spans": []}
+{"tokens": ["kidayra", "l7ayat", "f", "sswid?"], "spans": [[3, 3, "LOC"]]}
+{"tokens": ["lgholD", "f", "fransa", "machi", "mochkila", "kbira", "b7al", "f", "ngliz"], "spans": [[2, 2, "LOC"], [8, 8, "LOC"]]}
+{"tokens": ["ana", "mSafer", "l", "briTanya"], "spans": [[3, 3, "LOC"]]}
+{"tokens": ["sma3t", "bli", "argentine", "blad", "zwina", "tahya", "o3ndha", "manaDir", "Tabi3ia", "khallaba"], "spans": [[2, 2, "LOC"]]}
+{"tokens": ["ghadin", "b9a", "hna", "7tel", "lkhmis", "kay"], "spans": []}
+{"tokens": ["8ada", "ma3bed", "9dim", "dyal", "lboudiyya"], "spans": [[1, 1, "MISC"], [4, 4, "MISC"]]}
+{"tokens": ["3refti,", "kan", "kay7sab", "lik", "makentch", "3arfah", "ach", "kaydir", "howa", "o", "Maryam", "fach", "kano", "kaygoulo", "lia", "rah", "kayl3bo", "l", "hond..."], "spans": [[10, 10, "PER"]]}
+{"tokens": ["makat3jebnich", "2oroppa"], "spans": [[1, 1, "LOC"]]}
+{"tokens": ["kay9ra", "f", "jami3at", "Mohamed", "lkhamis"], "spans": [[2, 4, "ORG"]]}
+{"tokens": ["lah", "ikhelli", "lik", "ma3zz", "3lik"], "spans": []}
+{"tokens": ["kan3ich", "f", "ssa3oudiya"], "spans": [[2, 2, "LOC"]]}
+{"tokens": ["mama", "mchat", "lyoum", "lmrakch"], "spans": [[3, 3, "LOC"]]}
+{"tokens": ["3lach", "3titiha", "l", "Loubna", "gbila"], "spans": [[3, 3, "PER"]]}
+{"tokens": ["9lil", "nass", "li", "ba9in", "ki9elbou", "3la", "7lal"], "spans": []}
+{"tokens": ["ana", "b7al", "Louis", "f", "aTfal", "ljanna"], "spans": [[2, 2, "PER"]]}
+{"tokens": ["momkin", "nchdd", "maw3id", "l", "larb3", "jjay?"], "spans": []}
+{"tokens": ["iyeh,", "ktbtha", "l", "Hassan"], "spans": [[3, 3, "PER"]]}
+{"tokens": ["7na", "daba", "fmo2asasa", "dyal", "Alan", "Turing"], "spans": [[4, 5, "PER"]]}
+{"tokens": ["mchit", "l", "2oroppa", "merra", "we7da"], "spans": [[2, 2, "LOC"]]}
+{"tokens": ["fin", "t3llmti", "l", "anglais?"], "spans": [[3, 3, "MISC"]]}
+{"tokens": ["makan8Derch", "bl3arbiyya"], "spans": [[1, 1, "MISC"]]}
+{"tokens": ["mabghitich", "t", "3oum", "fchher", "tlata", "7it", "kayn", "lberd"], "spans": []}
+{"tokens": ["gdd", "hakka,", "oba9i", "kat3ich", "f3alam", "tl", "manga", "o", "rosom", "mota7arika,", "makat7chmch"], "spans": []}
+{"tokens": ["achno", "tkhlssi", "3liya", "nmchiw"], "spans": []}
+{"tokens": ["momkin", "t9ra", "ro9ya", "3liya"], "spans": []}
+{"tokens": ["3afak", "hder", "bl", "anglais."], "spans": [[3, 3, "MISC"]]}
+{"tokens": ["wa7ed", "lmoutarachi7", "li", "kanbaghi", "ydir", "m3ah", "interview", "lbezzaf", "d", "lwadhayef", "lmo7tama", "jal", "l", "interview", "f", "zoom", "labes", "pinwar"], "spans": [[15, 15, "ORG"]]}
+{"tokens": ["z3ma,", "9bel", "manwslo", "l", "Australia,", "mazal", "lina", "ghi", "chi", "12", "wla", "13", "l", "sa3a."], "spans": [[4, 4, "LOC"]]}
+{"tokens": ["kant", "dayra", "idar", "inwi", "b", "186", "dh"], "spans": [[3, 3, "ORG"]]}
+{"tokens": ["7it", "tarikh", "dyal", "awwn", "nas", "jaw", "lmarikh", "o", "l9aw", "atar", "dyal", "7aDara", "9dima", "bzaf"], "spans": [[6, 6, "LOC"]]}
+{"tokens": ["wach", "nta", "sakn", "f", "kaza", "ola", "l3a2ila", "sakna", "fchi", "blasa", "khra", "flblad?"], "spans": [[4, 4, "LOC"]]}
+{"tokens": ["daba", "ndower", "lik", "nhar", "jjm3a"], "spans": []}
+{"tokens": ["Sba7", "alkhir", "ssi", "Hatim,", "kidayr", "had", "sba7?"], "spans": [[3, 3, "PER"]]}
+{"tokens": ["ma", "ghadich", "nmchi", "7tel", "lkhmis"], "spans": []}
+{"tokens": ["Kifash", "nt3lm", "darija?"], "spans": [[2, 2, "MISC"]]}
+{"tokens": ["9rit", "chi", "riwayat", "dyal", "Agatha", "Christie"], "spans": [[4, 5, "PER"]]}
+{"tokens": ["la", "la", "mazwinch", "mafih", "maytka"], "spans": []}
+{"tokens": ["Oh,", "ahlan", "Simo", "kidayr?"], "spans": [[2, 2, "PER"]]}
+{"tokens": ["ghadin", "b9a", "hna", "7tel", "lkhmis"], "spans": []}
+{"tokens": ["rah", "fransawi", "tewled", "ffranssa"], "spans": [[1, 1, "MISC"], [3, 3, "LOC"]]}
+{"tokens": ["bghit", "nsifT", "hadchi", "l", "mirikan"], "spans": [[4, 4, "MISC"]]}
+{"tokens": ["bch7al", "b3ida", "Lagouira"], "spans": [[2, 2, "LOC"]]}
+{"tokens": ["kifach", "katgolo", "liha", "bl", "anglais?"], "spans": [[4, 4, "MISC"]]}
+{"tokens": ["i7timal", "yl9aw", "7oTam", "f", "lmarikh", "fi3lan", "sghir"], "spans": [[4, 4, "LOC"]]}
+{"tokens": ["lmgharba", "kayaklou", "ksksou", "koul", "jm3a"], "spans": [[0, 0, "MISC"], [2, 2, "MISC"]]}
+{"tokens": ["Oh", "ah,", "tla9it", "m3a", "Latifa", "ftri9i,", "bant", "lya", "drayfa", "bzef"], "spans": [[4, 4, "PER"]]}
+{"tokens": ["la,", "bghit", "nmchi", "l", "amrica", "ljanobia", "oblkhosos", "lbrazil"], "spans": [[4, 5, "LOC"], [7, 7, "LOC"]]}
+{"tokens": ["n9adro", "n3ayto", "3la", "lmajmo3a", "dyal", "yoga", "dyalna", "o", "Glee", "club"], "spans": []}
+{"tokens": ["walakin", "makanbghich", "talyaniyin", "bzaf"], "spans": [[2, 2, "MISC"]]}
+{"tokens": ["ila", "baghiti", "chi", "haja", "tlabha", "mn", "lah"], "spans": []}
+{"tokens": ["bghit", "nktachef", "tta9afa", "l8indiyya"], "spans": [[3, 3, "MISC"]]}
+{"tokens": ["ghadi", "ikhssni", "ntlab", "Archibald", "iSawb", "hadchi", "bzerba."], "spans": [[3, 3, "PER"]]}
+{"tokens": ["wax", "ghadi", "t9ari", "sabt"], "spans": []}
+{"tokens": ["ana", "mchghoul", "jjm3a", "jjayya"], "spans": []}
+{"tokens": ["rani", "knt", "kanterjem", "l", "wahd", "lmiricani"], "spans": [[5, 5, "MISC"]]}
+{"tokens": ["3la", "kol", "7al,", "ljaw", "f", "Marrakech", "zwin"], "spans": [[5, 5, "LOC"]]}
+{"tokens": ["raha", "oghniya", "dyal", "Lesey", "Gore", "mn", "ssttinat,", "khasak", "tsma3", "liha", "f", "youtube"], "spans": [[3, 4, "PER"], [11, 11, "ORG"]]}
+{"tokens": ["nchoufak", "nehar", "tenin"], "spans": []}
+{"tokens": ["3lach", "ma3ndhoumch", "Scottish", "whiskey?"], "spans": [[2, 2, "MISC"]]}
+{"tokens": ["wach", "hadchi", "khaTir", "a", "doctour?"], "spans": []}
+{"tokens": ["wach", "Jamila", "mghribia?"], "spans": [[1, 1, "PER"], [2, 2, "MISC"]]}
+{"tokens": ["kandhk", "bohdi", "fy9ti", "3liya", "lmadi"], "spans": []}
+{"tokens": ["lli", "bghaha", "lah", "mrhba", "biha"], "spans": []}
+{"tokens": ["ma", "ghadich", "nmchi", "7tel", "l7ad"], "spans": []}
+{"tokens": ["9errert", "manmchich", "l", "2oroppa"], "spans": [[3, 3, "LOC"]]}
+{"tokens": ["yallah", "ntriniw", "3la", "l", "anglais"], "spans": [[4, 4, "MISC"]]}
+{"tokens": ["hoa", "mjowwej", "b", "mo7amia", "mn", "Tanja"], "spans": [[5, 5, "LOC"]]}
+{"tokens": ["had", "no3", "dial", "bechra", "ana", "wlah", "ma3erftha"], "spans": []}
+{"tokens": ["tounes", "kayna", "f", "chamal", "2ifri9ya"], "spans": [[0, 0, "LOC"], [3, 4, "LOC"]]}
+{"tokens": ["kayban", "liya", "bila", "akhir", "mra", "kan", "mn", "lmoftarad", "lmo7aDir", "yadwi", "fiha", "3la", "miSr", "l9dima"], "spans": [[12, 12, "LOC"]]}
+{"tokens": ["nji", "daba", "lebsa", "diali", "msebna", "m7edda"], "spans": []}
+{"tokens": ["franciya", "bzaf", "walakin", "7san", "bzaf", "mn", "l7alwa", "lfakiha", "ta9lidiya"], "spans": [[0, 0, "LOC"]]}
+{"tokens": ["nari", "hadchi", "kaykhle3"], "spans": []}
+{"tokens": ["imkan", "m3a", "cream", "dyal", "Chantilly?"], "spans": [[4, 4, "MISC"]]}
+{"tokens": ["kideroha", "f", "mahalat", "dyal", "msamn", "o", "dakchi", "m3rofa"], "spans": []}
+{"tokens": ["TTib", "w", "rri3aya", "ssi7ia", "w", "lkhidma", "asi7ia", "alwatania", "lli", "tatkon", "dima", "fl2akhbar", "7itach", "mafihach", "flos", "kafia", "bach", "ikmmlo"], "spans": []}
+{"tokens": ["mabghitich", "t", "ster", "rassek", "ewa", "tleb", "lah", "y5fer", "lik"], "spans": []}
+{"tokens": ["makatb9ach", "fia", "had", "Anya,", "ghadi", "ykheli", "liha", "bezzaf", "dial", "lflouss", "tkhiyel"], "spans": [[3, 3, "PER"]]}
+{"tokens": ["f", "3amrak", "ot3ich", "f", "3alam", "lmanga", "o", "rosom", "lmota7arika", "amr", "motir", "lchafa9a"], "spans": []}
+{"tokens": ["wach", "t9dar", "tgol", "bila", "ghadi", "trja3", "mn", "los", "angeles,", "wla", "Tyartak", "t3atlat?"], "spans": [[7, 8, "LOC"]]}
+{"tokens": ["bdlti", "lblsa", "dyal", "lbrasli"], "spans": []}
+{"tokens": ["ma", "ghadich", "nmchi", "7tel", "sebt", "jay"], "spans": []}
+{"tokens": ["lkhdma", "walo", "flmaghrib"], "spans": [[2, 2, "LOC"]]}
+{"tokens": ["ma3ndich", "m3a", "n8ar", "ttnin"], "spans": []}
+{"tokens": ["khafte", "gha", "yji", "ramdan", "narj3", "kif", "kante"], "spans": [[3, 3, "MISC"]]}
+{"tokens": ["ghadin", "b9a", "hna", "7tel", "l7ad"], "spans": []}
+{"tokens": ["ch7al", "mn", "merra", "kenti", "f", "okranya?"], "spans": [[5, 5, "LOC"]]}
+{"tokens": ["bghit", "nSrrf", "hadi", "l", "ddolar"], "spans": [[4, 4, "MISC"]]}
+{"tokens": ["bzzaf", "dyal", "nnas", "kay3ichou", "f", "asya"], "spans": [[5, 5, "LOC"]]}
+{"tokens": ["had", "lmosam", "dima", "kaydiroh", "fsif"], "spans": [[1, 1, "MISC"]]}
+{"tokens": ["chkon", "mdekhela", "l", "wifi"], "spans": []}
+{"tokens": ["wash", "dwzti", "nhar", "lhd", "zwin"], "spans": []}
+{"tokens": ["hadok", "rrjal", "kayhdro", "bl", "anglais"], "spans": [[4, 4, "MISC"]]}
+{"tokens": ["kanarmiha", "w", "kan9os", "lbota", "b7ala", "katsla9", "kan7ayadha"], "spans": []}
+{"tokens": ["mabghitch", "nchof", "jibal", "dyal", "Alps", "9riba", "bzaf"], "spans": [[4, 4, "LOC"]]}
+{"tokens": ["bi3", "bach", "mabghiti", "sla3tak", "hadik"], "spans": []}
+{"tokens": ["mabghitich", "t", "nseb", "dkchi", "li", "kayw9e3", "lmselmin", "7it", "homa", "makaydiroch", "hadchi"], "spans": [[6, 6, "MISC"]]}
+{"tokens": ["iwa....", "sba7", "lkhir,", "doctor."], "spans": []}
+{"tokens": ["mrhba", "b", "ostad", "dyalna"], "spans": []}
+{"tokens": ["ghadi", "ikon", "mod8il", "tchof", "Toucan", "flbarria"], "spans": [[4, 4, "ORG"]]}
