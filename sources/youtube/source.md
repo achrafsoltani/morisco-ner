@@ -9,7 +9,7 @@
 ## Provenance / licence
 - Script form: Latin / Arabizi (chat-digits 3/7/9/2).
 - **YouTube API ToS:** comment text must not be redistributed; API data not stored > 30 days. → release **stand-off corpus
-  + comment IDs + a documented sample + models**, never bulk raw text. Private backup in this repo only.
+  + comment IDs + a documented sample + models**, never bulk raw text.
 - Comments are **personal data** (GDPR) — strip/avoid usernames and channel IDs in any release; pseudonymise.
 
 ## Quota note (grounded)
@@ -18,4 +18,4 @@ YouTube Data API v3: 10,000 units/day default; `commentThreads.list` = 1 unit / 
 
 ## Next
 - Re-run with a broader, documented channel list across domains (news, sport, entertainment, vlogs) to diversify entities.
-- Keep the entity-likely slice for annotation; route the rest to the MoRoBERTa-large MLM corpus (`../../../moroberta-encoder/`).
+- Keep the entity-likely slice for annotation; the remainder feeds an unlabelled MLM pretraining pool.
