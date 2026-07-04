@@ -47,3 +47,6 @@ This deliberately broadens DarNERcorp's nationality/language-centric MISC. See `
 Code (pipelines): **Apache-2.0**. Data: **CC BY-NC 4.0**, stand-off. Built from public YouTube comments + DODa; no private
 data. Raw bulk-scraped text is **never** redistributed (YouTube ToS / GDPR) — only the small transformed stand-off corpus,
 the documented sample, and trained models are released. See `LICENSE.md`.
+
+## Versions
+See `CHANGELOG.md` for release history and corrections.
