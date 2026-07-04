@@ -15,7 +15,3 @@
 ## Quota note (grounded)
 YouTube Data API v3: 10,000 units/day default; `commentThreads.list` = 1 unit / up to 100 comments
 → ~1M comments/day theoretical ceiling per project (before Arabizi filtering + dedup, which cut this sharply).
-
-## Next
-- Re-run with a broader, documented channel list across domains (news, sport, entertainment, vlogs) to diversify entities.
-- Keep the entity-likely slice for annotation; the remainder feeds an unlabelled MLM pretraining pool.
