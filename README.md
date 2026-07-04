@@ -39,7 +39,7 @@ See `pipeline/README.md` for the stage contract and `sources/README.md` for the 
 python3 -m venv .venv && . .venv/bin/activate && pip install -r requirements.txt
 ```
 
-## Binding annotation rule (carry-over, do not change)
+## Binding annotation rule
 Anything **cultural / ethnic / religious → MISC**, including religious figures (*Allah* / *Lah* → MISC, not PER, not O).
 This deliberately broadens DarNERcorp's nationality/language-centric MISC. See `ANNOTATION-GUIDELINES.md`.
 
