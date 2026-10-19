@@ -21,3 +21,8 @@ release/
 .yt_key
 logs/
 candidates/
+
+# --- re-hydrated token-level files: contain YouTube comment text, never commit ---
+data/arabizi_native_full.jsonl
+data/arabizi_train_native.jsonl
+data/morisco_iaa200_adjudicated.jsonl

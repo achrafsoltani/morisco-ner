@@ -1,23 +1,18 @@
-# data/ — canonical corpus file map
+# data/ — corpus file map
 
-Original filenames are preserved (copied from the Aljamiado paper repo, 2026-06-14) so the pipeline scripts keep working.
-Record format: one JSON object per line — `{"tokens": [...], "spans": [[start, end, TYPE], ...]}` (token indices inclusive; stand-off).
+The YouTube-derived files are released **stand-off**: they carry the YouTube comment id, the token count, a SHA-1 of the space-joined tokens, and the entity spans, but never the comment text. Run `pipeline/rehydrate_youtube.py` with your own YouTube Data API v3 key to rebuild the token-level files locally (see the root README). The DODa-derived test files carry their text, which DODa's MIT licence allows.
 
-| file | role | sentences | notes |
+| file | role | sentences | content |
 |---|---|---|---|
-| `arabizi_native_full.jsonl` | **canonical TRAIN** | 1,531 | full native-annotated training corpus (the headline release set) |
-| `arabizi_train_native.jsonl` | frozen ablation pool | 1,400 | the subset used by the paper's native-vs-translit scaling ablation; **do not change** |
-| `arabizi_gold.jsonl` | **frozen TEST** | 400 | DODa Latin, teacher-drafted then native-corrected; no overlap with train; **frozen** |
-| `arabizi_gold_ar.jsonl` | Arabic-script test variant | 400 | Arabic-script rendering of the gold, used for the transliteration reference arm |
-| `morisco_iaa200_adjudicated.jsonl` | adjudicated IAA subset | 200 | the doubly-annotated batch_02 sentences after adjudication (κ pass); fold-in candidate |
-| `raw/arabizi_draft.json` | teacher draft | — | pre-annotation teacher labelling (input to native review) |
-| `raw/arabizi_draft_review.csv` | review worksheet | — | the worksheet the draft was reviewed against |
+| `arabizi_native_full.standoff.jsonl` | **canonical TRAIN** | 1,531 | stand-off: `{"comment_id", "n_tokens", "text_sha1", "spans"}` |
+| `arabizi_train_native.standoff.jsonl` | frozen ablation pool | 1,400 | stand-off; the subset used by the paper's native-vs-transliteration scaling ablation |
+| `morisco_iaa200_adjudicated.standoff.jsonl` | adjudicated IAA subset | 200 | stand-off, plus the subset's own `id`; the doubly annotated sentences after adjudication |
+| `arabizi_gold.jsonl` | **frozen TEST** | 400 | `{"tokens", "spans"}`; DODa Latin sentences, teacher-drafted then native-corrected |
+| `arabizi_gold_ar.jsonl` | Arabic-script test variant | 400 | Arabic-script rendering of the test set, used for the transliteration reference arm |
+
+Spans are `[start, end, TYPE]` token indices, inclusive, over the whitespace tokens of the comment text after the collection pipeline's normalisation (whitespace collapsed, URLs removed). `rehydrate_youtube.py` writes the token-level files under their original names (`arabizi_native_full.jsonl` and so on), which `.gitignore` keeps out of the repository.
 
 ## Invariants (verify before any release)
-- **Test is frozen** (`arabizi_gold.jsonl`, 400) — never add to it; new sentences go to train only.
-- **Zero train/test sentence overlap** — re-check after every batch fold-in.
-- Per-type (train): PER 845 · LOC 809 · MISC 616 · ORG 373 (1.73 entities/sentence).
-
-## Canonical names (applied at release time)
-On HF, the release uses MoriscoNER branding: `train` ← `arabizi_native_full.jsonl`, `test` ← `arabizi_gold.jsonl`.
-`pipeline/release_standoff.py` performs the rename + stand-off emit; the working files keep the `arabizi_*` names here.
+- **Test is frozen** (`arabizi_gold.jsonl`, 400 sentences): new sentences go to train only.
+- **Zero train/test sentence overlap**: re-check after every batch fold-in.
+- Per-type counts (train span records): PER 845 · LOC 809 · MISC 616 · ORG 373.
